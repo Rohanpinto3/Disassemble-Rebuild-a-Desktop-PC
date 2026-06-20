@@ -1,29 +1,52 @@
 
-<h1>Disassemble & Rebuild a Desktop PC</h1>
+# Disassemble & Rebuild a Desktop PC
+
+## Description
 
 
-<h2>Description</h2>
-<p>This project demonstrates my ability to disassemble, inspect, and reassemble a desktop PC to enhance my technical skills and hands-on experience with computer hardware.</p>
 
-<p>In this project I'm going to show how I disassemble a computer and then how I reassemble it. I will explain each step of the process in detail, as well as any computer components that I remove or install.</p>
+This project demonstrates my ability to disassemble, inspect, and reassemble a desktop PC to enhance my technical skills and hands-on experience with computer hardware.
 
-<br />
+In this project, I document the complete process of disassembling and reassembling a computer while explaining the purpose of each component and the steps involved.
 
-<h2>Tools Used</h2>
+---
 
-- <b>PC Case</b> 
-- <b>Motherboad</b>
-- <b>CPU</b>
-- <b>Power Supply Unit (PSU)</b> 
-- <b>Connectors and Cables</b>
-- <b>Optical Drive</b>
-- <b>Fan and Heat Sink</b>
 
-<br />
 
-<h2>Table Of Contents:</h2>
+## Project Breakdown with Walkthroughs
 
-<p>Click on each link to see the step-by-step project walk-through with screenshots included</p>
+This project consists of two parts:
 
-- [Disassembling a PC](https://github.com/Anmoldeep2002/Disassembling-PC/tree/main)
-- [Assembling a PC](https://github.com/Anmoldeep2002/Assembling-PC/tree/main)
+### 🔧 [Disassembling a PC](https://github.com/Rohanpinto3/Disassembling-a-PC)
+Safely removing and identifying internal hardware components.
+
+### 🖥️ [Assembling a PC](https://github.com/Rohanpinto3/Assembling-a-PC)
+
+Reinstalling hardware components and verifying system functionality.
+
+
+---
+## Skills Demonstrated
+
+- Hardware Identification
+- PC Assembly and Disassembly
+- ESD Safety Procedures
+- Cable Management
+- Component Installation and Removal
+- Desktop Support Fundamentals
+
+
+
+
+
+---
+
+## Tools Used
+
+- PC Case
+- Motherboard
+- CPU
+- Power Supply Unit (PSU)
+- Connectors and Cables
+- Optical Drive
+- Fan and Heat Sink
