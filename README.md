@@ -25,6 +25,7 @@ Safely removing and identifying internal hardware components.
 Reinstalling hardware components and verifying system functionality.
 
 
+
 ---
 ## Skills Demonstrated
 
